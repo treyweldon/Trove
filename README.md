@@ -11,7 +11,6 @@ This is a personal finance management app built using **React, Chart.js, and Boo
 
 ## Technologies Used
 - **Frontend**: React, Chart.js, Bootstrap
-- **Backend (for future integration)**: Node.js (currently not implemented)
 - **Markup & Styling**: HTML5, CSS3, JavaScript
 
 ## Installation & Setup
