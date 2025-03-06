@@ -17,8 +17,8 @@ This is a personal finance management app built using **React, Chart.js, and Boo
 ## Installation & Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/finance-app.git
-   cd finance-app
+   git clone https://github.com/treyweldon/trove.git
+   cd trove
    ```
 2. **Install dependencies**
    ```sh
