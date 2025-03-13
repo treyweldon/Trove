@@ -3,6 +3,9 @@
 ## Overview
 Trave is a personal finance management app built using **React, Chart.js, and Bootstrap**, designed to provide users with an interactive, at-a-glance overview of their budget. The app stores budget data in **local storage**, making it a proof of concept that could be further developed with **database integration** for production use.
 
+### Demo
+[See a Live Demo Here](https://treyweldon.github.io/Trove/)  
+
 ## Features
 - **Dynamic Budget Indicator Bar**: Changes color as users approach or exceed their set budget, providing a clear visual cue for financial health.
 - **Interactive Dashboard**: Displays budget data in a user-friendly and visually engaging way.
