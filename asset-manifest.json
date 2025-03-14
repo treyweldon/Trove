@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trove/static/css/main.38c70815.css",
+    "main.js": "/Trove/static/js/main.c2e221b3.js",
+    "index.html": "/Trove/index.html",
+    "main.38c70815.css.map": "/Trove/static/css/main.38c70815.css.map",
+    "main.c2e221b3.js.map": "/Trove/static/js/main.c2e221b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c70815.css",
+    "static/js/main.c2e221b3.js"
+  ]
+}
